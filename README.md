@@ -1,7 +1,6 @@
 # 💰 PennyMuse – Personal Finance Tracker App  
 
-**Mobile Application Development (MAD) Project | 2nd Year, 2nd Semester (Feb 2025 – Jun 2025)**  
-Built with **Kotlin** & **Android XML** | Developed at **SLIIT**  
+**Mobile Application Development (MAD) Project | 2nd Year, 2nd Semester**  
 
 ---
 
